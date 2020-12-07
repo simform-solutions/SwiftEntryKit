@@ -511,7 +511,6 @@ SwiftEntryKit.dismiss()
 ```
 This will dismiss the entry animatedly using it's *exitAnimation* attribute and on comletion it'll remove the window as well.
 
-
 ### Is Currently Displaying
 Inquire whether an entry is currently displayed:
 ```Swift
